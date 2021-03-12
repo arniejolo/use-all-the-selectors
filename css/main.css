@@ -21,3 +21,7 @@ footer {
 nav ul {
   font-family: sans-serif;
 }
+
+.logo {
+  text-transform: uppercase;
+}
