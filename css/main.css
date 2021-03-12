@@ -25,3 +25,7 @@ nav ul {
 .logo {
   text-transform: uppercase;
 }
+
+.wrapper {
+  background-color: #eee8d5;
+}
