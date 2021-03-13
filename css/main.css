@@ -53,3 +53,7 @@ a:not(.no-highlight){
 ol: first-child{
   color: #719e47;
 }
+
+ol: last-child{
+  color: #2aa198;
+}
