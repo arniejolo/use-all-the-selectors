@@ -41,3 +41,7 @@ nav ul {
 #facts .dfn + strong{
   color: #fff;
 }
+
+a:not(.no-highlight){
+  background-color: #719e07;
+}
