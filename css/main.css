@@ -30,42 +30,42 @@ nav ul {
   background-color: #eee8d5;
 }
 
-#contents, #favs, #facts, #types{
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
-.wrapper .dfn{
+.wrapper .dfn {
   background-color: #b58900;
 }
 
-#facts .dfn + strong{
+#facts .dfn + strong {
   color: #fff;
 }
 
-a:not(.no-highlight){
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-[rel=external]{
+[rel=external] {
   background-color: #2694d8;
 }
 
-.favs ol li:first-child{
+.favs ol li:first-child {
   color: #719e47;
 }
 
-.favs ol li:last-child{
+.favs ol li:last-child {
   color: #2aa198;
 }
 
-.types li:nth-child(odd){
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-.types li:nth-child(even){
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
-.types li:nth-child(3n){
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
