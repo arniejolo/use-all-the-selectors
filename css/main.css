@@ -50,10 +50,22 @@ a:not(.no-highlight){
   background-color: #2694d8;
 }
 
-ol: first-child{
+.favs ol li:first-child{
   color: #719e47;
 }
 
-ol: last-child{
+.favs ol li:last-child{
   color: #2aa198;
+}
+
+.types li:nth-child(odd){
+  background-color: #657ba3;
+}
+
+.types li:nth-child(even){
+  background-color: #586e75;
+}
+
+.types li:nth-child(3n){
+  background-color: #d04b16;
 }
